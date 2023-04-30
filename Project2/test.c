@@ -1,10 +1,10 @@
-#define _CRT_SECURE_NO_WARNINGS 1
-#include<sys/stat.h>
-#include<fcntl.h>
-#include<stdio.h>
-#include<unistd.h>
-#include<string.h>
-#include<sys/mman.h>
+//#define _CRT_SECURE_NO_WARNINGS 1
+//#include<sys/stat.h>
+//#include<fcntl.h>
+//#include<stdio.h>
+//#include<unistd.h>
+//#include<string.h>
+//#include<sys/mman.h>
 
 
 ////»­Ô²Çò
